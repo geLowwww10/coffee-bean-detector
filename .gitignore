@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+.env
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# Directory for uploaded files
+uploads/*
+!uploads/.gitkeep
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db 
